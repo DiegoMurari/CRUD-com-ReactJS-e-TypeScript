@@ -1,0 +1,17 @@
+{
+  "books": [
+    {
+      "title": "1",
+      "author": "Produto 1",
+      "price": 100,
+      "quantity": 10
+    },
+    {
+      "id": "c96e",
+      "title": "Harry Potter",
+      "author": "J. K. Rowling",
+      "price": "100",
+      "stock": "1"
+    }
+  ]
+}
